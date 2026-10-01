@@ -213,6 +213,7 @@ sdist,Economically Active & Autonomous,Fully Constrained,Homemaker w/ Household 
 230.0,13.8,30.0,56.3,88,Patna,Bihar,Bihar,Patna
 231.0,5.7,32.3,61.9,106,Bhojpur,Bihar,Bihar,Bhojpur
 232.0,11.4,28.1,60.5,83,Buxar,Bihar,Bihar,Buxar
+233.0,14.8,29.1,56.1,97,Kaimur (Bhabua),Bihar,Bihar,Kaimur (Bhabua)
 234.0,10.9,24.2,64.9,92,Rohtas,Bihar,Bihar,Rohtas
 235.0,17.4,20.2,62.4,95,Aurangabad,Bihar,Bihar,Aurangabad
 236.0,19.0,15.9,65.1,96,Gaya,Bihar,Bihar,Gaya
@@ -692,6 +693,5 @@ sdist,Economically Active & Autonomous,Fully Constrained,Homemaker w/ Household 
 930.0,13.6,7.9,78.5,88,Sultanpur,Uttar Pradesh,Uttar Pradesh,Sultanpur
 931.0,19.3,18.1,62.6,79,Paschim Barddhaman,West Bengal,West Bengal,Paschim Barddhaman
 932.0,12.8,20.7,66.5,112,Purba Barddhaman,West Bengal,West Bengal,Purba Barddhaman
-,21.72066974595843,14.12944572748268,64.16916859122402,866,,NCT of Delhi,Delhi,Delhi
-,38.33703703703704,7.366666666666667,54.2962962962963,108,,Maharashtra,Maharashtra,Mumbai
-,14.8,29.1,56.1,97,,Bihar,Bihar,Kaimur
+,21.72066974595843,14.129445727482679,64.16916859122402,866,,NCT of Delhi,Delhi,Delhi
+,38.337037037037035,7.366666666666667,54.2962962962963,108,,Maharashtra,Maharashtra,Mumbai
